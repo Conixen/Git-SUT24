@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git SUT24", "Git SUT24\Git SUT24.csproj", "{A0BC0C5F-4837-43D7-8F87-3534EE49B0F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BC0C5F-4837-43D7-8F87-3534EE49B0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BC0C5F-4837-43D7-8F87-3534EE49B0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BC0C5F-4837-43D7-8F87-3534EE49B0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BC0C5F-4837-43D7-8F87-3534EE49B0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B27B60B-D9EF-41E4-BBE4-A05300781A85}
+	EndGlobalSection
+EndGlobal
